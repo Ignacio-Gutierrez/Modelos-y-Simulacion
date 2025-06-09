@@ -490,7 +490,7 @@ def comparar_configuraciones():
     print("ANÁLISIS COMPARATIVO DE CONFIGURACIONES")
     print("=" * 60)
     
-    configuraciones = range(1, 6)  # De 1 a 5 boxes
+    configuraciones = range(1, 11)  # De 1 a 10 boxes
     resultados = []
     
     for num_boxes in configuraciones:
